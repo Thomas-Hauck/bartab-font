@@ -1,0 +1,1 @@
+Copyright (c) 2025, Amos Khachut (Thomas Hauck) <contact@amoskhachut.fr>

@@ -1,0 +1,1 @@
+bartab est une marque déposée par Thomas Hauck (Amos Khachut).
