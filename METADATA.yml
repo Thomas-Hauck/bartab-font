@@ -2,34 +2,28 @@
 unified-font-repository-version: "0.3"
 unified-font-repository-url: https://github.com/raphaelbastide/Unified-Font-Repository/
 typeface-family:
-  name: Demo
-  desccription: description goes here
+  name: bartab
+  description: police plutôt ronde et robuste avec des contrastes inversés. Très inspirée des années 70 et finalement de la police Zipper dessinée par Bob Newman.
   tags:
   - sans-serif
-  - pixel
-  - 80s
-  - condesed
-  - grotesque
-  - monospace
+  - 70s
   - incomplete
   - decorative
-  repository-url: https://github.com/user/Demo
-  project-url: https://website.com/demofontproject
+  repository-url: https://github.com/Thomas-Hauck/bartab-font.git
+  project-url: https://bartab.amoskhachut.fr
   tools:
-  - Inkscape
-  - Fontforge
+  - Glyphs Mini
   similar-fonts:
-  - Helvetica
-  - Neue Haas Grotesk
+  - Zipper
   designer: 
-  - name: demoname
-  - url: https://sample.com
+  - name: Amos Khachut
+  - url: https://amoskhachut.fr
   writing-systems: 
   - Latin
   published: 
-  - 2023
+  - 2025
   license: 
   - SIL Open Font License, Version 1.1
   sample-text:
-  - en_us: The quick brown fox jumps over the lazy dog
+  - fr-FR: Fumer nuit gravement à la santé !
 ...
