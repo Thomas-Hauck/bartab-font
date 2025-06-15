@@ -3,6 +3,12 @@ BarTab est une police plutôt ronde et robuste avec des contrastes inversés. Tr
 
 ## Specimen
 <img src="/documentation/specimen/bartab_couv.webp"/>
+<img src="/documentation/specimen/bartab_1.webp"/>
+<img src="/documentation/specimen/bartab_2.webp"/>
+<img src="/documentation/specimen/bartab_3.webp"/>
+<img src="/documentation/specimen/bartab_4.webp"/>
+<img src="/documentation/specimen/bartab_5.webp"/>
+<img src="/documentation/specimen/bartab_6.webp"/>
 
 ## Licence
 This Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is copied below, and is also available with a FAQ at http://scripts.sil.org/OFL
